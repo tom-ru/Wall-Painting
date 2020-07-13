@@ -1,0 +1,1 @@
+I will try to create a Deep Learning Model which learns to transform images into an impressionistic painting. I will use the works of famous artists (e.g. Monet, van Gogh and Cortes) to create a database. I will probably use a CycleGAN, along the lines of https://towardsdatascience.com/cyclegans-to-create-computer-generated-art-161082601709
